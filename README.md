@@ -11,6 +11,8 @@ A summary is coming here...
 
 Our [main README](https://github.com/conffuzz/conffuzz/blob/main/README.md) provides a step-by-step guide to get started with our prototype.
 
+The data set of our NDSS'23 paper is [publicly available](https://github.com/conffuzz/conffuzz-ndss-data) under the [CC BY](https://creativecommons.org/licenses/by/4.0/) license.
+
 ### Publications
 
 * **Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software.**<br/>H. Lefeuvre, V-A. Bădoiu, B. Chien, F. Huici, N. Dautenhahn, P. Olivier.<br/>to appear in [**NDSS'23**](https://www.ndss-symposium.org/ndss2023/) [[ArXiv]()] [[Data-Set](https://github.com/conffuzz/conffuzz-ndss-data)]
