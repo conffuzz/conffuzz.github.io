@@ -1,7 +1,7 @@
 * * *
 **News**
 - ConfFuzz will be presented [at FOSDEM]() as part of the Confidential Computing track.
-- Our ConfFuzz [paper]() was accepted to appear at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/).
+- Our ConfFuzz [paper](https://arxiv.org/abs/2212.12904) was accepted to appear at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/).
 
 * * *
 
@@ -15,7 +15,7 @@ The data set of our NDSS'23 paper is [publicly available](https://github.com/con
 
 ### Publications
 
-* **Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software.**<br/>H. Lefeuvre, V-A. Bădoiu, B. Chien, F. Huici, N. Dautenhahn, P. Olivier.<br/>to appear in [**NDSS'23**](https://www.ndss-symposium.org/ndss2023/) [[ArXiv]()] [[Data-Set](https://github.com/conffuzz/conffuzz-ndss-data)]
+* **Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software.**<br/>H. Lefeuvre, V-A. Bădoiu, B. Chien, F. Huici, N. Dautenhahn, P. Olivier.<br/>to appear in [**NDSS'23**](https://www.ndss-symposium.org/ndss2023/) [[ArXiv](https://arxiv.org/abs/2212.12904)] [[Data-Set](https://github.com/conffuzz/conffuzz-ndss-data)]
 
 ### Other Presentations
 
