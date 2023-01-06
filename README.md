@@ -56,8 +56,8 @@ ConfFuzz is an open-source project resulting from a collaboration between the
 University of Manchester, Politehnica University of Bucharest, Rice University,
 and Unikraft.io.
 
-ConfFuzz is partly funded by a studentship from NEC Labs Europe, a Microsoft
-Research PhD Fellowship, the UK’s EPSRC grants EP/V012134/1 (UniFaaS),
-EP/V000225/1 (SCorCH), the EPSRC/Innovate UK grant EP/X015610/1 (FlexCap), the
-EU H2020 grant agreements 871793 (ACCORDION) and 758815 (CORNET), and the NSF
-CNS #2008867, #2146537, and ONR N00014-22-1-2057 grants.
+ConfFuzz is partly funded by a studentship from NEC Labs Europe, a [Microsoft
+Research PhD Fellowship](https://www.microsoft.com/en-us/research/academic-program/phd-fellowship/2022-recipients/), the UK’s EPSRC grants EP/V012134/1 ([UniFaaS](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V012134/1)),
+EP/V000225/1 ([SCorCH](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V000225/1)), the EPSRC/Innovate UK grant EP/X015610/1 ([FlexCap](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/X015610/1)), the
+EU H2020 grant agreements 871793 ([ACCORDION](https://www.accordion-project.eu/)) and 758815 ([CORNET](https://cordis.europa.eu/project/id/758815)), and the NSF
+CNS [#2008867](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2008867&HistoricalAwards=false), [#2146537](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2146537&HistoricalAwards=false), and ONR N00014-22-1-2057 grants.
