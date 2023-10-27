@@ -1,5 +1,6 @@
 * * *
 **News**
+- We presented some of our ongoing follow-up work on [Oct 23rd at KISV](https://dl.acm.org/doi/10.1145/3625275.3625399), co-located with [SOSP](https://sosp2023.mpi-sws.org/).
 - We will present our paper at NDSS'23 on [Tuesday, Feb 28th in San Diego](https://www.ndss-symposium.org/ndss-program/symposium-2023/#collapse_session2) (Software Security I).
 - ConfFuzz will be presented [at FOSDEM](https://fosdem.org/2023/schedule/event/cc_online_vulnerabilities/) as part of the Confidential Computing track.
 - Our ConfFuzz [paper](https://arxiv.org/abs/2212.12904) was accepted to appear at [NDSS 2023](https://www.ndss-symposium.org/ndss2023/).
@@ -41,7 +42,7 @@ The data set of our NDSS'23 paper is [publicly available](https://github.com/con
 
 ### Publications
 
-* **Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software.**<br/>H. Lefeuvre, V-A. Bădoiu, B. Chien, F. Huici, N. Dautenhahn, P. Olivier.<br/>to appear in [**NDSS'23**](https://www.ndss-symposium.org/ndss2023/) [[ArXiv](https://arxiv.org/abs/2212.12904)] [[Data-Set](https://github.com/conffuzz/conffuzz-ndss-data)] [[Zenodo](https://doi.org/10.5281/zenodo.7505748)]
+* **Assessing the Impact of Interface Vulnerabilities in Compartmentalized Software.**<br/>H. Lefeuvre, V-A. Bădoiu, B. Chien, F. Huici, N. Dautenhahn, P. Olivier.<br/>to appear in [**NDSS'23**](https://www.ndss-symposium.org/ndss2023/) [[ArXiv](https://arxiv.org/abs/2212.12904)] [[Data-Set](https://github.com/conffuzz/conffuzz-ndss-data)] [[Zenodo](https://doi.org/10.5281/zenodo.7505748)] [[Video](https://www.youtube.com/watch?v=bbIVzvn4CXk)]
 
 ### Other Presentations
 
