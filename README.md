@@ -1,5 +1,6 @@
 * * *
 **News**
+- We gave a [talk](http://videos.rennes.inria.fr/seminaire-SoSySec/Pierre-Olivier-8-12-2023/Seminaire-SoSySec-Pierre-Olivier-8-decembre-2023.html) on software compartmentalization and ConfFuzz at the [Inria Software Systems Security seminar](https://seminaires-dga.inria.fr/en/sosysec-en-bref/)
 - We presented some of our ongoing follow-up work on [Oct 23rd at KISV](https://dl.acm.org/doi/10.1145/3625275.3625399), co-located with [SOSP](https://sosp2023.mpi-sws.org/).
 - We will present our paper at NDSS'23 on [Tuesday, Feb 28th in San Diego](https://www.ndss-symposium.org/ndss-program/symposium-2023/#collapse_session2) (Software Security I).
 - ConfFuzz will be presented [at FOSDEM](https://fosdem.org/2023/schedule/event/cc_online_vulnerabilities/) as part of the Confidential Computing track.
