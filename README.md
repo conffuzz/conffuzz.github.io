@@ -49,6 +49,9 @@ The data set of our NDSS'23 paper is [publicly available](https://github.com/con
 
 * **A Study of Fine-Grain Compartment Interface Vulnerabilities: What, Why, and What We Should Do About Them.**<br/>will be presented by [H. Lefeuvre](https://fosdem.org/2023/schedule/speaker/hugo_lefeuvre/) at [**FOSDEM'23**](https://fosdem.org/2023/schedule/event/cc_online_vulnerabilities/) [[Video](https://mirrors.dotsrc.org/fosdem/2023/D.confidential/cc_online_vulnerabilities.mp4)]
 
+* **Software Compartmentalization and the Challenge of Interfaces.**<br/>P. Olivier, Inria [**Software Systems Security Seminar**](https://seminaires-dga.inria.fr/en/sosysec-en-bref/), 2023 [[Video](http://videos.rennes.inria.fr/seminaire-SoSySec/Pierre-Olivier-8-12-2023/Seminaire-SoSySec-Pierre-Olivier-8-decembre-2023.html)]
+
+
 ### Contact
 
 [Hugo Lefeuvre](https://owl.eu.com), The University of Manchester: hugo.lefeuvre *at* manchester.ac.uk
